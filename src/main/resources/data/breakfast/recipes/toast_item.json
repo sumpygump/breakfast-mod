@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "breakfast:breadslice_item"
+  },
+  "result": "breakfast:toast_item",
+  "experience": 1.0,
+  "cookingtime": 100
+}
